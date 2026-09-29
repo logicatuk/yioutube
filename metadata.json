@@ -1,0 +1,6 @@
+{
+  "name": "tvyoutube.pro - Premium IPTV & Entertainment",
+  "description": "Discover a simple IPTV streaming experience with live TV, movies, series, flexible subscription plans, and fast setup across all your devices on tvyoutube.pro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
